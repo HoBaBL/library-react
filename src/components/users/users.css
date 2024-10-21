@@ -1,0 +1,41 @@
+.content {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.container {
+    max-width: 1240px;
+    margin: 0 auto;
+}
+
+.h3 {
+    font-size: 24px;
+    font-weight: 500;
+    margin: 0;
+}
+
+.block {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;  
+}
+
+.btnAddUser {
+    font-weight: 500;
+}
+
+.userBtn {
+    width: 100%;
+    justify-content: start;
+    padding: 10px 5px;
+    
+    border: none;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.userName {
+    font-size: 18px;
+    font-weight: 500;
+}
